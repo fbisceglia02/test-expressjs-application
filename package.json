@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/fbisceglia02/test-expressjs-application/issues"
   },
-  "homepage": "https://github.com/fbisceglia02/test-expressjs-application#readme"
+  "homepage": "https://github.com/fbisceglia02/test-expressjs-application#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
