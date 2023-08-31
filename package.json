@@ -1,0 +1,22 @@
+{
+  "name": "test-expressjs-application",
+  "version": "1.0.0",
+  "description": "Testing good convention of express.js application",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbisceglia02/test-expressjs-application.git"
+  },
+  "keywords": [
+    "expressjs-test"
+  ],
+  "author": "fbisceglia02",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fbisceglia02/test-expressjs-application/issues"
+  },
+  "homepage": "https://github.com/fbisceglia02/test-expressjs-application#readme"
+}
